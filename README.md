@@ -1,26 +1,26 @@
 # Grokking-and-Leetcode-checklist
 
-## Pattern: Sliding Window: 🎞 [5/11]
+## Pattern: Sliding Window: 🎞 [6/11]
 
 - [ ] https://leetcode.com/problems/maximum-subarray/ 
 
-- [x] https://leetcode.com/problems/minimum-size-subarray-sum/ ✅
+- [x] https://leetcode.com/problems/minimum-size-subarray-sum/  Timing = 3 ms ✅   Acceptance = 44.3%
 
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 
-- [x] https://leetcode.com/problems/fruit-into-baskets/ ✅
+- [x] https://leetcode.com/problems/fruit-into-baskets/   Timing = 132 ms ✅   Acceptance = 42.6%
 
-- [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/ ✅
+- [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/   Timing = 	11 ms ✅   Acceptance = 33.7%
 
 - [ ] https://leetcode.com/problems/longest-repeating-character-replacement/
 
 - [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
 
-- [x] https://leetcode.com/problems/permutation-in-string/ ✅
+- [x] https://leetcode.com/problems/permutation-in-string/   Timing = 60 ms ✅   Acceptance = 43.9%
 
-- [x] https://leetcode.com/problems/find-all-anagrams-in-a-string/ ✅
+- [x] https://leetcode.com/problems/find-all-anagrams-in-a-string/   Timing = 	93 ms ✅   Acceptance = 48.9%
 
-- [ ] https://leetcode.com/problems/minimum-window-substring/
+- [x] https://leetcode.com/problems/minimum-window-substring/   Timing = 89 ms ✅   Acceptance = 39.9%
 
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
